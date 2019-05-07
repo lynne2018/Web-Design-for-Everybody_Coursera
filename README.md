@@ -10,4 +10,4 @@
                     3.fun link 1: http://www.hongkiat.com/blog/built-with-css/
                     4.fun link 2: http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/
                     5.Learn more about Complex Selectors http://learn.shayhowe.com/advanced-html-css/complex-selectors/
-          
+                    6. Prior to HTML5 it was a given that each page should have at most one h1 heading. However, when HTML5 introduced the many semantic container elements (section, article, main, aside, ...) the role of the h1changed. The article linked here makes some excellent points on how using more than one <h1> tag can increase the search engine performance of your page, as well as enhance accessibility: http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.
