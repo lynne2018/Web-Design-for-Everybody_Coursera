@@ -15,3 +15,10 @@
                     here makes <br>some excellent points on how using more than one <h1> tag can increase the search engine performance of 
                     your page, as well as enhance <br>accessibility: 
                     http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824.
+                    https://yoast.com/how-to-use-headings-on-your-site/
+                    7. Transition and transform optional reading:
+                              (1)http://www.w3schools.com/css/css3_transitions.asp
+                              (2)http://learn.shayhowe.com/advanced-html-css/transitions-animations/
+                              (3)http://www.the-art-of-web.com/css/css-animation/
+                              (4)http://www.creativebloq.com/css3/animation-with-css3-712437
+                    
