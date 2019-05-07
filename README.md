@@ -1,2 +1,5 @@
 # Web-Design-for-Everybody_Coursera
-course 1 : introduction of HTML5.
+course 1 : Introduction of HTML5.
+course 2 : Introduction of CSS3.
+          useful links: https://learn.shayhowe.com/html-css/building-your-first-web-page/
+          
