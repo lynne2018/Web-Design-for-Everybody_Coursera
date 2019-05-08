@@ -53,25 +53,24 @@ aside img{
 }
 
 h2{
-	/*font-size: */
 	color: #000000;
 	background: linear-gradient()
 }
 table{
 	width: 80%;
 	margin: 2% 8%;
-	background-color: #d5d87f;
-	
 }
 tr>th{
 	border: 2px solid white;
-	border-radius: 2px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 	height:40px;
 	color: white;
 	background: linear-gradient(to bottom,#585B05,#FFE829);
 }
 tr{
 	opacity: 0.8;
+	background-color: #d5d87f;
 }
 tr:hover{
 	background-color: #F1F829;
@@ -83,8 +82,9 @@ td{
 	border-radius: 2px;
 	text-align: center;
 	height:40px;
+	width:20%;
 }
 td:first-child{
-	text-align: left
+	text-align: left;
+	width:50%;
 }
-
