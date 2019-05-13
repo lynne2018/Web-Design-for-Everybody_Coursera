@@ -21,5 +21,7 @@
                               (2)http://learn.shayhowe.com/advanced-html-css/transitions-animations/
                               (3)http://www.the-art-of-web.com/css/css-animation/
                               (4)http://www.creativebloq.com/css3/animation-with-css3-712437
-                    8. Javascript function events conprehensive link : https://developer.mozilla.org/en_US/docs/Web/Events                   
+                    8. Javascript function events conprehensive link : https://developer.mozilla.org/en_US/docs/Web/Events 
+                    9. HTML5 forms pattern : https://html5pattern.com.
+                    
                     
