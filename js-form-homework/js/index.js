@@ -11,9 +11,13 @@ function billingFunction()
 		billZip.value = shipZip.value;
 		billName.setAttribute('required','true');
 		billZip.setAttribute('required','true');
+		billName.setAttribute('disabled','true');
+		billZip.setAttribute('disabled','true');
 	}else{
 		billName.removeAttribute('required');
 		billZip.removeAttribute('required');
+		billName.removeAttribute('disabled');
+		billZip.removeAttribute('disabled');
 		billName.value = "";
 		billZip.value = "";
 	}
