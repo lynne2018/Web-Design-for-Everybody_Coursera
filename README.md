@@ -46,6 +46,10 @@
                     9. better understand the meaning of "relative" and "absolute" as they relate to CSS. Here is the link: 
                     https://www.w3.org/TR/css3-values/#length-value. 
                     10. http://www.wireframeshowcase.com/
+                    11. The following is a link to good examples of responsive design: 
+                    http://www.awwwards.com/50-examples-of-responsive-web-design.html
+                    12.
+                   
                     
              
                     
