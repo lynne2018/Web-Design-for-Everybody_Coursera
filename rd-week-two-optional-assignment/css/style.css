@@ -59,10 +59,7 @@ ol{
 }
 
 img{
-/* 	display: none; */
-	display: block;
-		width: 20%;
-		margin-left: 1%;  
+	display: none;
 }
 
 @media all and (min-width:900px){
@@ -86,9 +83,9 @@ img{
 		overflow: auto;
 	}
 	img{
-/* 		display: block;
+		display: inline-block;
 		width: 20%;
-		margin-left: 1%;  */
+		margin-left: 3%; 
 	} 
 }
 
