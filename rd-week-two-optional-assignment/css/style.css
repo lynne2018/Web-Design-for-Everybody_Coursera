@@ -59,7 +59,7 @@ ol{
 }
 
 img{
-/* 	display: none; */
+	display: none;
 }
 
 @media all and (min-width:900px){
