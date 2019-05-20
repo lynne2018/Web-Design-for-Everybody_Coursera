@@ -27,7 +27,16 @@
                     3. website about recommends for deploying forms : https://www.wufoo.com/gallery/templates/.
 ## course 3 :  Advanced Styling with responsive Design. <br>  
                     1. http://mediaqueri.es
-                    2. online tool : http://ami.responsivedesign.is
+                    2. online tool to check the responsiveness of the website: http://ami.responsivedesign.is
+                    3. Responsive Web Design: Using Fonts Responsibly by Annarita Tranfici http://www.sitepoint.com/understanding
+                    responsive-web-design-how-to-manage-fonts/
+                    4. Web Design Basics: Rem vs. Em vs. PX - Sizing Elements in CSS by Matthew Davis (** Material here is used in Week
+                    Two Assessment**) https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/
+                    5. What's the Deal with Em and Rem? (** Material here is used in Week Two Assessment**)
+                    https://codemyviews.com/blog/whats-the-deal-with-em-and-rem
+                    6. Font Size Idea: px at the Root, rem for Components, em for Text Elements by Chris Coyier https://css
+                    tricks.com/rems-ems/ (Please note, some people on Firefox get a warning when using this link. It is not the case for
+                    other students.)
                     
                     
                     
