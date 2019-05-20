@@ -70,7 +70,7 @@ img{
 		content: ' (I guess...)';
 	}
 	header,footer{
-		background-color: transparent;
+		background-color: blue;
 	}
 	#left{
 		display: inline-block;
