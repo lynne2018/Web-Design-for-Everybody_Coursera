@@ -58,9 +58,7 @@ ol{
 	margin:1em;
 }
 img{
-	width: 20%;
-	height:20%;
-	margin-left: 3%;
+	display: none;
 }
 
 @media screen and (min-width:900px){
@@ -83,6 +81,11 @@ img{
 		width: 70%;
 		overflow: auto;
 	}
+	img{
+		width: 20%;
+		height:20%;
+		margin-left: 3%; 
+	} 
 }
 
 @media print{
