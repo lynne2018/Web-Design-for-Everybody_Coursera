@@ -83,9 +83,9 @@ img{
 		overflow: auto;
 	}
 	img{
-		display: inline-block;
+/* 		display: inline-block; */
 		width: 20%;
-		margin-left: 3%; 
+/* 		margin-left: 3%;  */
 	} 
 }
 
