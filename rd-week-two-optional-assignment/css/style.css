@@ -83,7 +83,7 @@ img{
 		overflow: auto;
 	}
 	img{
-/* 		display: inline-block; */
+		display: block;
 		width: 20%;
 /* 		margin-left: 3%;  */
 	} 
