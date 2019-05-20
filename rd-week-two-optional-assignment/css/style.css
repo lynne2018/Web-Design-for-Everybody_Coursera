@@ -70,7 +70,7 @@ img{
 		content: ' (I guess...)';
 	}
 	header,footer{
-		background-color: blue;
+		background-color: transparent;
 	}
 	#left{
 		display: inline-block;
@@ -83,7 +83,7 @@ img{
 		overflow: auto;
 	}
 	img{
-/* 		display: inline-block; */
+		display: inline-block;
 		width: 20%;
 		margin-left: 3%; 
 	} 
