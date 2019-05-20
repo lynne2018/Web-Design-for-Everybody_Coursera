@@ -25,6 +25,9 @@
                     1. Javascript function events conprehensive link : https://developer.mozilla.org/en_US/docs/Web/Events 
                     2. HTML5 forms pattern : https://www.html5pattern.com.
                     3. website about recommends for deploying forms : https://www.wufoo.com/gallery/templates/.
+## course 3 :  Advanced Styling with responsive Design. <br>  
+                    1. http://mediaqueri.es
+                    2. online tool : http://ami.responsivedesign.is
                     
                     
                     
