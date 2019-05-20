@@ -39,6 +39,12 @@
                     other students.)
                     7. a link to a Pixel to Em conversion tool: http://pxtoem.com/  In the third column you can enter numbers and have the
                     conversion calculated for you.
+                    8. This CodePen by Chris Coyier will let you use sliders to dynamically change the font size on a page 
+                    http://codepen.io/chriscoyier/pen/tvheK This demo goes with one of the readings on Fluid Measurements, but I am 
+                    including it here again just in case you missed the code. You can read it here if you want to know how to use the 
+                    tool. https://css-tricks.com/rems-ems/
+                    9. better understand the meaning of "relative" and "absolute" as they relate to CSS. Here is the link: 
+                    https://www.w3.org/TR/css3-values/#length-value. 
                     
                     
                     
