@@ -57,11 +57,12 @@ ol{
 	list-style:upper-roman; 
 	margin:1em;
 }
+
 img{
 	display: none;
 }
 
-@media screen and (min-width:900px){
+@media all and (min-width:900px){
 	body{
 		background-color: rgba(0,0,255,.2)
 	}
@@ -82,9 +83,8 @@ img{
 		overflow: auto;
 	}
 	img{
-		display:block;
+		display: inline-block;
 		width: 20%;
-		height:20%;
 		margin-left: 3%; 
 	} 
 }
