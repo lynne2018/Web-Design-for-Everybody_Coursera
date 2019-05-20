@@ -37,6 +37,8 @@
                     6. Font Size Idea: px at the Root, rem for Components, em for Text Elements by Chris Coyier https://css
                     tricks.com/rems-ems/ (Please note, some people on Firefox get a warning when using this link. It is not the case for
                     other students.)
+                    7. a link to a Pixel to Em conversion tool: http://pxtoem.com/  In the third column you can enter numbers and have the
+                    conversion calculated for you.
                     
                     
                     
