@@ -62,8 +62,8 @@
                     https://www.ostraining.com/blog/coding/bootstrap-firebug/
                     17. Codeschool has free course about DevTools: https://www.codeschool.com/courses/discover-devtools
                     18. Bootstrap templates: https://startbootstrap.com/ ; https://www.bootstrapzero.com/
-                    19. 
-                    
+## course 4 :  Web Design for Everybody Capstone. <br>  
+                   
                     
               
                     
