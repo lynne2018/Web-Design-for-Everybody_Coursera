@@ -48,7 +48,11 @@
                     10. http://www.wireframeshowcase.com/
                     11. The following is a link to good examples of responsive design: 
                     http://www.awwwards.com/50-examples-of-responsive-web-design.html
-                    12.
+                    12. bootstrap : http://builtwithbootstrap.com
+                    13. download a copy of boodstrap http://getbootstrap.com. use default values or select http://getbootstrap.com/customize/
+                    
+              
+                    
                    
                     
              
