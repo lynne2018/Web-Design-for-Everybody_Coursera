@@ -53,6 +53,16 @@
                     http://getbootstrap.com/customize/
                     14. a nice job of showing Bootstrap classes along with the CSS that goes with them. 
                     http://www.sitepoint.com/responsive-web-design-tips-bootstrap-css/
+                    15. This is an interesting article on the evolution of the Airbnb website.
+                    https://www.airbnb.com/meetups/x4ede5jr2-css-frameworks-and-the-evolution-of-airbnb-s-frontend
+                    I think one of the reasons I find it interesting is that the CodeAcademy CSS tutorial actually uses a similar platform 
+                    to teach about Bootstrap.
+                    16. I tend to use Chrome as my browser, and Inspect Element to debug my site. However, here is a tutorial for another 
+                    very popular development tool - Firebug. This video by Vicki Watson will walk you through how it works. 
+                    https://www.ostraining.com/blog/coding/bootstrap-firebug/
+                    17. Codeschool has free course about DevTools: https://www.codeschool.com/courses/discover-devtools
+                    18. 
+                    
                     
               
                     
